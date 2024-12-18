@@ -93,8 +93,3 @@ Follow these steps to set up **Terbang Berkelas** on your local machine:
 ## 🤝 Contributing
 
 Contributions are welcome! If you'd like to improve **Terbang Berkelas**, feel free to fork the repository and submit a pull request.
-
----
-
-### ✨ Happy Booking! ✈️
-5bde0d4 (Initial commit: Add project files entirely)
